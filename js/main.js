@@ -99,11 +99,11 @@
 			}
 
 	  	});
-
+/* 
 	  	$('#fh5co-hero .flexslider .slides > li').css('height', $(window).height());	
 	  	$(window).resize(function(){
 	  		$('#fh5co-hero .flexslider .slides > li').css('height', $(window).height());	
-	  	});
+	  	}); */
 
 	};
 	
