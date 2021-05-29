@@ -245,8 +245,8 @@ h1, h2, h3, h4, h5, h6 {
 
   .second-txt {
     position: absolute;
-    top: 200px;
-    left: 130px;
+    top: 160px;
+    left: 120px;
     text-align: center;
     line-height: 5rem;
     color: #1cad9c;
@@ -386,7 +386,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .menu h2{
    color: #DB4B29;
-   margin-left: 40px;
+   margin-left: 190px;
 }
 
 
